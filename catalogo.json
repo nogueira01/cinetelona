@@ -43,18 +43,18 @@
   ],
   "series": [
     {
-      "titulo": "Série Exemplo",
-      "ano": 2024,
-      "sinopse": "Exemplo de série organizada por temporadas e episódios.",
-      "capa": "",
-      "fundo": "",
+      "titulo": "Marshals: Uma História de Yellowstone",
+      "ano": 2026,
+      "sinopse": "Com o Rancho Yellowstone no passado, Kayce Dutton junta-se aos Marshals, combinando suas habilidades como cowboy e SEAL para levar justiça a Montana. Ele e seus companheiros servem como a última linha de defesa na guerra contra a violência na região.",
+      "capa": "https://image.tmdb.org/t/p/w500/kqzWUZKQYomcJhXA5mDcaZFTWiG.jpg",
+      "fundo": "https://i.pinimg.com/1200x/ea/4a/e4/ea4ae43e650b3e4bca29160cc63086d7.jpg",
       "temporadas": {
         "1": [
           {
             "episodio": 1,
-            "titulo": "Episódio Piloto",
-            "sinopse": "Primeiro episódio de exemplo.",
-            "magnet": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+            "titulo": "Piya Wiconi",
+            "sinopse": "Kayce Dutton reencontra um antigo companheiro dos SEALs e ajuda sua unidade de agentes federais a rastrear um bombardeiro que tem como alvo a Reserva Indígena de Broken Rock.",
+            "magnet": "magnet:?xt=urn:btih:4B6B44A9DBF66A5D36FE5B2E5F4F9B604BD61BC3&dn=Marshals%20S01E01%20WEB-DL%201080p%20x264%20DUAL%205.1&tr=udp%3a%2f%2ftracker.btzoo.eu%3a80%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce"
           }
         ]
       }
