@@ -1,0 +1,31 @@
+{
+  "filmes": [
+    {
+      "titulo": "Big Buck Bunny (Exemplo)",
+      "ano": 2008,
+      "sinopse": "Exemplo de filme configurado no catálogo. Substitua pelo seu link magnet ou URL.",
+      "capa": "",
+      "fundo": "",
+      "magnet": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+    }
+  ],
+  "series": [
+    {
+      "titulo": "Série Exemplo",
+      "ano": 2024,
+      "sinopse": "Exemplo de série organizada por temporadas e episódios.",
+      "capa": "",
+      "fundo": "",
+      "temporadas": {
+        "1": [
+          {
+            "episodio": 1,
+            "titulo": "Episódio Piloto",
+            "sinopse": "Primeiro episódio de exemplo.",
+            "magnet": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+          }
+        ]
+      }
+    }
+  ]
+}
