@@ -1,7 +1,7 @@
 {
   "filmes": [
     {
-      "titulo": "A Odysseia",
+      "titulo": "A Odisseia",
       "ano": 2026,
       "sinopse": "Exemplo de filme configurado no catálogo. Substitua pelo seu link magnet ou URL.",
       "capa": "",
@@ -29,21 +29,4 @@
     }
   ]
 },
-  "filmes": [
-    {
-      "titulo": "Primeiro Filme",
-      "ano": 2024,
-      "sinopse": "Sinopse do primeiro filme.",
-      "capa": "https://link-da-imagem-capa1.jpg",
-      "fundo": "https://link-da-imagem-fundo1.jpg",
-      "magnet": ""
-    },
-    {
-      "titulo": "Segundo Filme (Novo)",
-      "ano": 2025,
-      "sinopse": "Sinopse do segundo filme.",
-      "capa": "https://link-da-imagem-capa2.jpg",
-      "fundo": "https://link-da-imagem-fundo2.jpg",
-      "magnet": "magnet:?xt=urn:btih:CODIGO_TORRENT_FILME_2"
-    }
-  ],
+ 
