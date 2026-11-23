@@ -1,0 +1,1 @@
+Baixe o arquivo plugin.video.elementum-0.1.117.zip no site oficial elementumorg.github.io e coloque aqui dentro desta pasta para a instalacao direta pelo Repositorio Telona funcionar.
